@@ -1,3 +1,4 @@
+/* eslint-disable no-undef */
 import funcDistruct from '../js/app';
 
 const character = {
